@@ -14,6 +14,7 @@ public class Browseractivities {
          driver.navigate().back();    // Going back to the browser
          driver.navigate().forward();  // forwarding from the browser
          System.out.println("Thanks");
+         System.out.println("Welcome");
          
 		
 		
